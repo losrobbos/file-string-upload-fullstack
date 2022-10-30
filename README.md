@@ -1,4 +1,4 @@
-# file-string-upload-fullstack
+# File Upload (fullstack demo)
 
 Find here a code demo on how to upload a file from a frontend to a backend.
 
